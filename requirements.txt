@@ -1,7 +1,7 @@
+
 numpy
 matplotlib
-pandas
-scikit-learn
-ipympl
 ipywidgets
 jupyter_contrib_nbextensions
+pandas
+scikit-learn
