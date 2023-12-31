@@ -8,7 +8,6 @@ dependencies:
   - matplotlib>=3.2.2
   - ipywidgets
   - jupyter_contrib_nbextensions
-  - IPython.display
   - pip
   - pip:
     - numpy
