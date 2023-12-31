@@ -11,7 +11,7 @@ dependencies:
   - IPython.display
   - pip
   - pip:
-numpy
-matplotlib
-pandas
-scikit-learn
+    - numpy
+    - matplotlib
+    - pandas
+    - scikit-learn
