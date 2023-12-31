@@ -10,7 +10,7 @@ dependencies:
   - jupyter_contrib_nbextensions
   - pip
   - pip:
-    - numpy
+    - numpy>=1.19.5
     - matplotlib
     - pandas
     - scikit-learn
